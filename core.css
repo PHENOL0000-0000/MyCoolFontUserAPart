@@ -1,0 +1,38 @@
+@import url('https://phenol0000-0000.github.io/MyCoolFontUserBPart/core.css');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+/*.jersey-10-regular {
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}*/
+
+.CoreCoolLog > .RetroTerminalCoolLog{
+  font-family: "Jersey 10", monospace;
+}
+
+.CoreCoolLog > .RetroTerminalCoolLogStylefirst{
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.CoreLog > .RetroTerminalLog{
+  font-family: "Jersey 10", monospace;
+}
+
+.CoreLog > .RetroTerminalLogStylefirst{
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.CoreErrLog > .RetroTerminalErrLog{
+  font-family: "Jersey 10", monospace;
+}
+
+.CoreErrLog > .RetroTerminalErrLogStylefirst{
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
